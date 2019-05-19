@@ -1,0 +1,8 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/arduinoboard.jpg": "static/arduinoboard-955e4725fc41f13fd64b01d80966111d.jpg",
+  "static/coding01.png": "static/coding01-389de246fe232c55ef371fbcdb57f91b.png",
+  "static/ind4.0.jpg": "static/ind4.0-b4d5fb6b45be982677a7d42174199b13.jpg",
+  "static/proyecto.jpg": "static/proyecto-df38da099de5b226f2362dc44962726d.jpg"
+}
